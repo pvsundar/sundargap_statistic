@@ -44,3 +44,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 Special thanks to all contributors and the open-source community.
+in particular to the code by Mavengence who created the package for the Tibshirani Gap Statistic.
+https://github.com/Mavengence/GapStatistics/blob/main/gapstatistics/gapstatistics.py
