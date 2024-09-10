@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: sundar_gap_stat
-Version: 0.1
+Version: 1.1
 Summary: Sundar-Tibshirani Gap Statistic for cluster analysis
 Home-page: https://github.com/pvsundar/sundar_gap_stat
 Author: SUNDAR BALAKRISHNAN
@@ -11,6 +11,7 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
+License-File: LICENSE
 License-File: LICENSE.md
 Requires-Dist: numpy
 Requires-Dist: scikit-learn

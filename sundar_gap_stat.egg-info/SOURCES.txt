@@ -1,13 +1,14 @@
+LICENSE
 LICENSE.md
 MANIFEST.in
 README.md
 setup.py
+examples/SIMULATIONVERION-EXAMPLES-GLASS-IRIS.py
 examples/example_usage.py
 examples/glass_example.py
+examples/newglass.py
 gap_statistic/__init__.py
 gap_statistic/gap_stat.py
-gap_statistic/gap_statistic-OLD.py
-gap_statistic/main-old.py
 gap_statistic/main.py
 gap_statistic/utils.py
 gap_statistic/__pycache__/__init__.cpython-311.pyc

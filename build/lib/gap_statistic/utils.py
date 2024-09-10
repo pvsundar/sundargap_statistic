@@ -63,3 +63,4 @@ def sundar_tibshirani_gap_statistic_main(X, labels=None, k: int = 3, B: int = 50
         gap = gap_stat.compute_gap_statistic(X_scaled, labels, k, B=B)
         print(f"Gap Statistic for given clustering: {gap}")
         print(f"Method of Ho: {'User-given labels' if use_user_labels else 'KMeans clustering'}")
+
