@@ -20,9 +20,10 @@ Requires-Dist: matplotlib
 Requires-Dist: scipy
 Requires-Dist: openml
 
-# Sundar-Tibshirani Gap Statistic Package
+## Sundar-Tibshirani Gap Statistic Package
 
-This package implements the Sundar-Tibshirani Gap Statistic for cluster analysis.
+This package implements the 
+# Sundar-Tibshirani Gap Statistic when the Cluster Labels are specified.
 
 ## Installation
 
@@ -66,3 +67,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 Special thanks to all contributors and the open-source community.
+in particular to the code by Mavengence who created the package for the Tibshirani Gap Statistic.
+https://github.com/Mavengence/GapStatistics/blob/main/gapstatistics/gapstatistics.py
