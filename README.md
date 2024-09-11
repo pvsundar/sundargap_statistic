@@ -1,7 +1,7 @@
-## Sundar-Tibshirani Gap Statistic Package
+# Sundar-Tibshirani Gap Statistic Package
 
 This package implements the 
-# Sundar-Tibshirani Gap Statistic when the Cluster Labels are specified.
+## Sundar-Tibshirani Gap Statistic when the Cluster Labels are specified.
 
 ## Installation
 
