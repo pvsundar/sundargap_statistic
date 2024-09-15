@@ -7,6 +7,7 @@ examples/SIMULATIONVERION-EXAMPLES-GLASS-IRIS.py
 examples/example_usage.py
 examples/glass_example.py
 examples/newglass.py
+examples/newglass.py-delete
 gap_statistic/__init__.py
 gap_statistic/gap_stat.py
 gap_statistic/main.py
