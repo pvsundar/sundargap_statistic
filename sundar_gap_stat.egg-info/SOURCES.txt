@@ -3,6 +3,7 @@ LICENSE.md
 MANIFEST.in
 README.md
 setup.py
+examples/.Renviron
 examples/README_EXAMPLE.py
 examples/SIMULATIONVERION-EXAMPLES-GLASS-IRIS.py
 examples/example_usage.py
