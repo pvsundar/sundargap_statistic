@@ -11,7 +11,7 @@ else:
 
 setup(
     name='sundar_gap_stat',
-    version='1.1',
+    version='1.2',
     packages=find_packages(),
     install_requires=[
         'numpy',
